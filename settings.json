@@ -158,7 +158,6 @@
         "<C-p>": false,
         "<C-w>": false,
         "<C-c>": false,
-        "<C-v>": false,
         "<C-x>": false,
     },
     "vim.normalModeKeyBindings": [
