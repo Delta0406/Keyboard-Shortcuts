@@ -134,7 +134,7 @@
         "statusBar.foreground": "#9b9b8f",
         "statusBar.border": "#333a48"
     },
-    "editor.minimap.autohide": "mouseover",
+    "editor.minimap.autohide": true,
     "editor.minimap.showSlider": "mouseover",
     "editor.minimap.size": "fit",
     "editor.minimap.maxColumn": 180,
