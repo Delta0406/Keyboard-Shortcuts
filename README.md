@@ -85,8 +85,13 @@
 | 纵向分屏 | :vsplit / :vsp|
 | 窗口间切换 | Ctrl + w + h/j/k/l |
 | 新开标签页 | :tabnew 文件名|
+| 下一个标签页| g + t |
+| 上一个标签页 | g + T |
 | 下一个标签页 | :tabnext / :tabn|
 | 上一个标签页 | :tabprev / :tabp|
+| 第一个标签页 | :tabfirst |
+| 最后一个标签页 | :tablast |
+| 跳转到第N个标签页 | Ngt(如：2gt，跳转到第2个标签页) |
 | 关闭当前标签页 | :tabclose |
 
 ### 普通模式(非递归)
