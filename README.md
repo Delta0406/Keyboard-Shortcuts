@@ -25,7 +25,7 @@
 | :----: | :----: |
 | 自定义快捷键前缀键（leader）  |  Space  |
 | 切换侧边栏显示隐藏  |  leader + e  |
-| 清空终端，运行 CMake 当前 target |  leader + r + c |
+| 清空终端，运行 CMake 当前 target |  leader + z |
 | 格式化当前文档  |  leader + l + f  |
 | 在文件管理器中定位当前打开的文件  |  leader + f  |
 | 执行 Vim 命令 :noh，取消搜索高亮 |  leader + h  |
@@ -103,6 +103,7 @@
 | 向上滚动半屏 | Ctrl + u |
 | 向下滚动一屏 | leader + v |
 | 向上滚动一屏 | Ctrl + b |
+| cmake执行build当前target | leader + x |
 
 ### 插入模式
 | 功能 | 快捷键 |
