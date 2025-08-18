@@ -176,8 +176,7 @@
         {
         "before": [
             "leader",
-            "r",
-            "c"
+            "z"
         ],
         "commands": [
             {
@@ -494,6 +493,15 @@
           "commands": [
               "scrollPageDown"
           ]
+        },
+        {
+            "before": [
+                "leader",
+                "x"
+            ],
+            "commands": [
+                "cmake.build"
+            ]
         },
     ],
     "vim.insertModeKeyBindings": [
