@@ -571,3 +571,11 @@ let g:WhichKeyDesc_easymotionkey = "<leader><leader> 快速跳转插件"
 "nmap s <Plug>(easymotion-bd-f)
 nmap s <Plug>(easymotion-s2)
 let g:WhichKeyDesc_easymotion = "s 快速跳转"
+
+"普通模式和可视模式下删除不复制到剪贴板
+nnoremap d "_d
+xnoremap d "_d
+nnoremap x "_x
+xnoremap x "_x
+
+
